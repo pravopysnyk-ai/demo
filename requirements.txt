@@ -1,0 +1,7 @@
+stanza==1.4.2
+spacy_udpipe
+pymorphy2
+pymorphy2-dicts-uk
+symspellpy
+transformers
+sentencepiece
