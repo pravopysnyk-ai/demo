@@ -28,7 +28,7 @@ def main():
     models_dir = "./helpers/modules"
     ukrainian_dict_path = dicts_dir + "/new_wordlist.json"
     freq_path = dicts_dir + "/trim-frequency-vocab.txt"
-    bigrams_folder_path = dicts_dir + "/bigrams"
+    bigrams_folder_path = dicts_dir + "/bigrams_parts"
     spacy_model_path = models_dir + "/ukrainian-iu-ud-2.5-191206.udpipe"
     SPACY_UDPIPE_MODEL = spacy_udpipe.load_from_path(
         lang="uk",
