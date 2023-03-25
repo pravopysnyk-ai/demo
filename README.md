@@ -6,7 +6,7 @@ It is mainly based on `PyTorch` and `transformers`.
 
 ## Requirements
 
-describe requirements for cuda here
+Our language models work only in CUDA-enabled environment. To set everything up, follow the [instructions](https://docs.nvidia.com/cuda/) from the official NVIDIA website.
 
 ## Installation
 
