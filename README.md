@@ -2,7 +2,15 @@
 
 This repository provides code for running the state-of-the-art model for grammatical error correction for the Ukrainian language.
 
-It is mainly based on `PyTorch` and `transformers`.
+It is mainly based on `PyTorch` and `transformers`. 
+The schema behind the model can be found in the following paper:
+
+> [Comparative Study of Models Trained on Synthetic Data for Ukrainian Grammatical Error Correction.](https://aclanthology.org/2023.unlp-1.13/)
+>
+> [Maksym Bondarenko](https://github.com/Lenguist), [Artem Yushko](https://github.com/artemyushko), [Andrii Shportko](https://github.com/Antebe), and [Andrii Fedorych](https://github.com/StopFuture). 2023.
+>
+> In Proceedings of the Second Ukrainian Natural Language Processing Workshop (UNLP), pages 103–113, Dubrovnik, Croatia. Association for Computational Linguistics.
+
 
 ## Requirements
 
